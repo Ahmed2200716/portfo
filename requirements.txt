@@ -84,7 +84,7 @@ polyglot==16.7.4
 pre-commit==2.3.0
 prompt-toolkit==2.0.9
 proxyscrape23==0.1.1
-py==1.8.0
+py==1.10.0
 PyArabic==0.6.7
 pyasn1==0.4.5
 pyasn1-modules==0.2.4
