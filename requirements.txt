@@ -73,7 +73,7 @@ nxapi-plumbing==0.5.2
 oauthlib==3.1.0
 openpyxl==2.6.2
 packaging==19.0
-paramiko==2.7.1
+paramiko==2.10.1
 parsel==1.5.1
 parso==0.5.1
 passlib==1.7.2
